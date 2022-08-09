@@ -1,6 +1,8 @@
 # REsponsive Design
 <b> Course IT Women - Front End </b> 
 
+https://github.com/glauciabierwagen/responsive-design/blob/main/images/readmeimage.png
+
 ## Guidelines
 - Recreation of  the design from Figma, so that it looks the same depending on the screen size but also so that the design looks good on all screen sizes in between.  
 
