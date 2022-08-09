@@ -1,4 +1,4 @@
-# REsponsive Design
+# Responsive Design
 <b> Course IT Women - Front End </b>
 <br>
 <p align="center">
